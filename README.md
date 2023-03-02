@@ -1,38 +1,9 @@
-<p align="center">
-____Welcome____
+Welcome⚡
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+# Calculator
+<p align="center"><img src="https://github.com/U7P4L-IN/calculator/blob/main/220402345-49be58ae-89cb-4640-ac72-65e73a5b1b5c.png">
 
+### SIMPLE CALCULATOR
 
-AUTHOR:
-<p align="center">
-ANONYMOUS U7P4L
-
-</br>
-<p align="center">
-      ⚡😺 ID CLONING COMMAND😸
-
-</p>
-  
-#### INSTALL TOOL ON TERMUX
-```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
- git clone https://github.com/ANONYMOUS-U7P4L/KING.git
-```
-#### RUN SCRIPT
-```python
- cd KING
-
- python ID.py
-```
-
-
-#### Tools Languages :
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=KING&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<a href="https://u7p4l-in.github.io/calculator/"><strong>➥ Live Demo</strong></a>
